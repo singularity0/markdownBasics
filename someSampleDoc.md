@@ -54,3 +54,6 @@ when writing code use backticks:
 a = 10
 b = 20
 ```
+The course starts at :clock930: It is :free: for every :older_woman: with :smile_cat: 
+
+
