@@ -54,6 +54,36 @@ when writing code use backticks:
 a = 10
 b = 20
 ```
-The course starts at :clock930: It is :free: for every :older_woman: with :smile_cat: 
+```csharp
+namespace Model
+{
+    public class CartItem
+    {
+    }
+}
+```
+
+
+Table
+|row1col1| row1col2|
+|:------:|--------:|
+|track|field|
+|orange|apple
+
+:octocat:
+
+HTML:
+<div>myonlyDiv
+
+<a href="www.google.com">Google</a></div>
+
+    trying codeblock
+    one more like
+
+if one needs to write html tag then those can be wrapped with backticks like this `<a>` to avoid parser to look further for html
+
+
+we can enhance a `text` with backticks
+The [course](/docs/course.txt) starts at :clock930: It is :free: for every :older_woman: with :smile_cat: 
 
 
