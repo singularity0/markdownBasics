@@ -85,10 +85,13 @@ if one needs to write html tag then those can be wrapped with backticks like thi
 
 we can enhance a `text` with backticks
 
-Directives
-Serices
+
+The [course](/docs/course.txt) starts at :clock930: It is :free: for every :older_woman: with :smile_cat:
+
+link to [Markdown](#what is markdown?)
 
 ```diff
 - this lines
 + this line instead
 ```
+
