@@ -87,3 +87,8 @@ we can enhance a `text` with backticks
 
 Directives
 Serices
+
+```diff
+- this lines
++ this line instead
+```
