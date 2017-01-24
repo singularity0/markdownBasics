@@ -40,4 +40,17 @@ we can put links within <> like this: <http://twitter.com>
 want to insert an image => start with !, then
 ![Alaska](http://imgur.com/gallery/3dzpiyw)
 
+ordered list better contain all 1. like this:
+1. item one
+1. item two
+1. item three
 
+when writing code use backticks:
+```javascript
+    var init = misho;
+    var age = 123;
+```
+```python
+a = 10
+b = 20
+```
